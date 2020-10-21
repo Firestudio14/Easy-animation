@@ -1,0 +1,99 @@
+@keyframes fadein{
+      from{opacity: 0%;}
+      to{opacity: 100%;}
+      
+
+}
+
+@keyframes fadeout{
+    from{opacity: 100%;}
+    to{opacity: 0%;}
+    
+
+}
+
+
+@keyframes fadeinl{
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+    from{margin-left: 20%;}
+    to{margin-left: 45%;}
+
+
+}
+
+
+@keyframes fadeinr{
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+    from{margin-right: 20%;}
+    to{margin-right: 45%;}
+
+
+}
+
+
+@keyframes fade-in-up{
+
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+    from{margin-top: 40%;}
+    to{margin-top: 20%;}
+
+
+}
+.fade-in
+{
+     animation-name: fadein;
+     animation-duration: 2s;
+    
+
+
+
+
+}
+
+.fade-out
+{
+    
+      animation-name: fadeout;
+      animation-duration: 2s;
+  
+
+}
+
+.fade-in-l
+{
+
+    animation-name: fadeinl;
+    animation-duration: 2s;
+
+
+}
+
+.fade-in-r
+{
+
+    animation-name: fadeinr;
+    animation-duration: 2s;
+    
+
+}
+
+
+.color-red
+{
+  color: red;
+  
+ 
+
+}
+
+.font-size-bold
+{
+
+    font-weight: bold;
+
+
+}
+
