@@ -26,8 +26,8 @@
 @keyframes fadeinr{
     from{opacity: 0%;}
     to{opacity: 100%;}
-    from{margin-right: 20%;}
-    to{margin-right: 45%;}
+    from{margin-left: 80%;}
+    to{margin-left: 45%;}
 
 
 }
