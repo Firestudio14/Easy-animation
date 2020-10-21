@@ -64,7 +64,7 @@
 
 }
 
-.fade-in-l
+.fade-in-l-c
 {
 
     animation-name: fadeinl;
@@ -73,7 +73,7 @@
 
 }
 
-.fade-in-r
+.fade-in-r-c
 {
 
     animation-name: fadeinr;
@@ -100,5 +100,17 @@
 
 }
 
+.text-l
+{
+      
+       margin-left: 20%
+             
+}
 
+.text-r
+{
+       margin-left: 80%
+             
+}
+      
 
